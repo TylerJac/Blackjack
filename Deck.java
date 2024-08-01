@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
-
-import static java.util.Collections.swap;
-
 public class Deck implements DeckActions{
 
     private final ArrayList<Card> myCards;
